@@ -1,4 +1,4 @@
-Factory Pattern with JAVA
+Adapter Pattern with JAVA
 ========
 
 What is Factory
