@@ -1,7 +1,7 @@
 Adapter Pattern with JAVA
 ========
 
-What is Factory
+What is Adapter
 ----
 * Allows 2 incompatible interfaces to work together
 * Used when the client expects a (target) interface
