@@ -11,4 +11,4 @@ What is Adapter
 
 Class Diagram
 ----
-![](https://github.com/ricardomachadosb/Adapter-Pattern/blob/master/img/Model.png)
+![](https://github.com/ricardomachadosb/Adapter-Pattern/blob/master/img/CLASS_DIAGRAM.png)
